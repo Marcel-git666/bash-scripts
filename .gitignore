@@ -2,3 +2,5 @@
 log/
 # Ignore all text files
 *.txt
+# Ignore all HTML files
+*.html
